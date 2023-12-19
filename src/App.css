@@ -1,0 +1,14 @@
+.App{
+    width: 100%;
+    height: 100vh;
+}
+
+.App .books{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.App .booklist{
+    width: 90%;
+   margin: 0 auto;
+}
